@@ -22,7 +22,8 @@ A web app to calculate fuel consumption, estimate trip cost, and track travel hi
 ![History](./screenshots/ss3.png)
 
 ## 🔗 Live Demo
-(Add after deployment)
+
+👉 [View Live Project](https://fuel-tracker-mu-rust.vercel.app)
 
 ## 💡 Future Improvements
 - Charts for analytics
