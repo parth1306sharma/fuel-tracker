@@ -15,11 +15,6 @@ A web app to calculate fuel consumption, estimate trip cost, and track travel hi
 - CSS
 - LocalStorage
 
-## 📸 Screenshots
-
-![Main UI](./screenshots/ss1.png)
-![Summary](./screenshots/ss2.png)
-![History](./screenshots/ss3.png)
 
 ## 🔗 Live Demo
 
