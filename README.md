@@ -17,13 +17,8 @@ A web app to calculate fuel consumption, estimate trip cost, and track travel hi
 
 ## 📸 Screenshots
 
-### 🧾 Main Interface
 ![Main UI](./screenshots/ss1.png)
-
-### 📊 Results & Summary
 ![Summary](./screenshots/ss2.png)
-
-### 📜 Trip History
 ![History](./screenshots/ss3.png)
 
 ## 🔗 Live Demo
