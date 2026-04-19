@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fuel Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Fuel Cost Calculator</h1>
+<h2>Trip History</h2>
+<div id="history"></div>
+    <input type="number" id="mileage" placeholder="Mileage (km/l)">
+    <input type="number" id="price" placeholder="Fuel Price">
+    <input type="number" id="distance" placeholder="Distance (km)">
+
+    <button onclick="calculate()">Calculate</button>
+    <button onclick="saveTrip()">Save Trip</button>
+    <h2 id="result"></h2>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
